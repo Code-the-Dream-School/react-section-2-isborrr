@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-section-2-isborrr/static/css/main.fdf28208.chunk.css",
-    "main.js": "/react-section-2-isborrr/static/js/main.1ad580ad.chunk.js",
-    "main.js.map": "/react-section-2-isborrr/static/js/main.1ad580ad.chunk.js.map",
+    "main.js": "/react-section-2-isborrr/static/js/main.710b5145.chunk.js",
+    "main.js.map": "/react-section-2-isborrr/static/js/main.710b5145.chunk.js.map",
     "runtime-main.js": "/react-section-2-isborrr/static/js/runtime-main.e36de61a.js",
     "runtime-main.js.map": "/react-section-2-isborrr/static/js/runtime-main.e36de61a.js.map",
-    "static/js/2.91f34e12.chunk.js": "/react-section-2-isborrr/static/js/2.91f34e12.chunk.js",
-    "static/js/2.91f34e12.chunk.js.map": "/react-section-2-isborrr/static/js/2.91f34e12.chunk.js.map",
+    "static/js/2.584e40b4.chunk.js": "/react-section-2-isborrr/static/js/2.584e40b4.chunk.js",
+    "static/js/2.584e40b4.chunk.js.map": "/react-section-2-isborrr/static/js/2.584e40b4.chunk.js.map",
     "index.html": "/react-section-2-isborrr/index.html",
-    "precache-manifest.d77e22c582c5d06e4678add0fbdebf29.js": "/react-section-2-isborrr/precache-manifest.d77e22c582c5d06e4678add0fbdebf29.js",
+    "precache-manifest.81a9102985638dc76fc5804b3ca9b009.js": "/react-section-2-isborrr/precache-manifest.81a9102985638dc76fc5804b3ca9b009.js",
     "service-worker.js": "/react-section-2-isborrr/service-worker.js",
     "static/css/main.fdf28208.chunk.css.map": "/react-section-2-isborrr/static/css/main.fdf28208.chunk.css.map",
-    "static/js/2.91f34e12.chunk.js.LICENSE.txt": "/react-section-2-isborrr/static/js/2.91f34e12.chunk.js.LICENSE.txt",
+    "static/js/2.584e40b4.chunk.js.LICENSE.txt": "/react-section-2-isborrr/static/js/2.584e40b4.chunk.js.LICENSE.txt",
     "static/media/graduation.jpg": "/react-section-2-isborrr/static/media/graduation.b2317448.jpg",
     "static/media/image.jpg": "/react-section-2-isborrr/static/media/image.76386815.jpg",
     "static/media/linkdln.png": "/react-section-2-isborrr/static/media/linkdln.2abdf5d0.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e36de61a.js",
-    "static/js/2.91f34e12.chunk.js",
+    "static/js/2.584e40b4.chunk.js",
     "static/css/main.fdf28208.chunk.css",
-    "static/js/main.1ad580ad.chunk.js"
+    "static/js/main.710b5145.chunk.js"
   ]
 }
