@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
@@ -38,6 +38,7 @@ class App extends React.Component {
   render() {
     const { projects } = this.state
     return (
+
       <div className="App">
         <Router>
           <div className="profilePicture">
@@ -117,6 +118,7 @@ class App extends React.Component {
             </Switch>
           </div>
         </Router>
+
       </div>
 
     );
