@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ca4544babf67266f903b5892ac33388",
+    "revision": "b3a04f797aac9ce7ef788d17ffa7ef4c",
     "url": "/react-section-2-isborrr/index.html"
   },
   {
-    "revision": "b7e792bc678edecf4b69",
-    "url": "/react-section-2-isborrr/static/css/main.2ef5ca5f.chunk.css"
+    "revision": "5876219b21a8781e4c4e",
+    "url": "/react-section-2-isborrr/static/css/main.1169dede.chunk.css"
   },
   {
     "revision": "a1742ac9e41da6284c55",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-section-2-isborrr/static/js/2.584e40b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7e792bc678edecf4b69",
-    "url": "/react-section-2-isborrr/static/js/main.710b5145.chunk.js"
+    "revision": "5876219b21a8781e4c4e",
+    "url": "/react-section-2-isborrr/static/js/main.fcd8f6c5.chunk.js"
   },
   {
     "revision": "9f5c0b29e15c3bc1f594",
